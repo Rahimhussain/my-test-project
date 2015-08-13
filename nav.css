@@ -1,0 +1,20 @@
+.logo{
+	text-align: center;
+}
+
+ul li{
+	display: inline-block;
+	padding:10px;
+	background-color: #DA5528;
+	transition: 1s;
+}
+
+ul{
+	background-color: #999;
+}
+
+ul li:hover {
+	background-color: #821;
+	color: #fff;
+	cursor: pointer;
+}
